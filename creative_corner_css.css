@@ -1,0 +1,66 @@
+.heading h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.heading {
+    background-color: #00A8C5;
+    color: white;
+    line-height: 1000%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    color: white;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+}
+.nav{
+    background-color:rgb(35, 44, 44);
+    line-height: 250%;
+}
+.about img{
+    text-align: center;
+    border-radius: 50%;
+}
+.about p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: floralwhite;
+    font-size: larger;
+}
+.about{
+    background-color: #FF6773;
+}
+.images{
+    background-color: black;
+}
+.images h2{
+    color: white;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: larger;
+}
+.videos video{
+    border-radius:3%;
+    border-style:ridge;
+}
+.strip{
+    background-color:#00A8C5;
+    color: white;
+}
+hr{
+    border-color: rgb(0, 0, 0);
+    border-width:medium;
+}
+#footer{
+    line-height: 95%;
+    font-size:larger;
+    background-color: #FF6773;
+}
+#footer img{
+    border-radius: 25%;
+}
